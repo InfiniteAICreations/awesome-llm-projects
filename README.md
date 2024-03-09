@@ -3,6 +3,23 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
+- Projects
+    - ChatBot
+    - Voice
+    - Music
+    - Image
+    - 3D Model
+    - Video
+    - Search Engine
+    - Develop Assistant
+    - AI Agent
+    - Multi-Agent Collaboration
+    - Terminal
+    - Launcher
+    - PPT / Keynote
+    - Web Sites
+    - Hardware
+    - Others
 
 ## Projects
 ‼️Attention: If the project name starts with `*`, it means the project is neither open source nor has it released any applications yet.
@@ -24,7 +41,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [*NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/): Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models.
 
 ### 🎵 Music
-- [Suno](https://www.suno.ai/): We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.
+- [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
 
 ### 🌄 Image
 Including text to image, image to image:
@@ -32,7 +49,7 @@ Including text to image, image to image:
 - [DALL-E](https://openai.com/dall-e-3): Creating images from text.
 - [Stable Diffusion](https://stability-ai.com/): Stable Diffusion is a deep learning, text-to-image model.
 - [Midjourney](https://www.midjourney.com/): Midjourney is a generative artificial intelligence program and service that creates images from natural language descriptions, similar to other AI technologies like OpenAI's DALL-E and Stability AI's Stable Diffusion.
-- [StickerBaker](https://stickerbaker.com/): Let's bake some (AI) stickers!
+- [StickerBaker](https://stickerbaker.com/): StickerBaker is an open-source tool that allows users to create stickers using AI technology. 
 - [*PIXART-Σ](https://pixart-alpha.github.io/PixArt-sigma-project/): Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation.
 - [ResAdapter](https://github.com/bytedance/res-adapter):  ResAdapter is a plug-and-play resolution adapter for enabling diffusion models of arbitrary style domains to generate resolution-free images: no additional training, no additional inference and no style transfer.
 
@@ -50,7 +67,7 @@ Including text to video, image to video, video to video:
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
-- [Phind](https://www.phind.com/): Get answers to complex questions with Phind's AI answer engine.
+- [Phind](https://www.phind.com/): [web browser](https://www.phind.com/), to generate answers based on web search results and LLMs, also to provide customizable functionality for adjusting the weighting of search result sources
 - [Devv](https://devv.ai/): The next generation AI search engine for developers. Solve your programming problems in seconds.
 - [Perplexity](https://www.perplexity.ai/): Perplexity AI unlocks the power of knowledge with information discovery and sharing.
 - [Arc](https://arc.net/): Effortlessly organize everything you do online — work, study, hobbies — all in one window with Spaces and Profiles.
@@ -68,7 +85,7 @@ Including search engine, web browser:
 - [ChatDev](https://chatdev.ai/): The primary objective of ChatDev is to offer an easy-to-use, highly customizable and extendable framework, which is based on large language models (LLMs) and serves as an ideal scenario for studying collective intelligence.
 
 ### 💻 Terminal
-- [Warp](https://www.warp.dev/): Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS.
+- [Warp](https://www.warp.dev/): Warp is a tool designed to enhance the terminal experience by providing AI-powered assistance for command lookups and allow users to input their objectives in plain English
 - [Gorilla](https://github.com/gorilla-llm/gorilla-cli): Gorilla CLI powers your command-line interactions with a user-centric tool.
 
 ### 🚀 Launcher
@@ -83,3 +100,6 @@ Including search engine, web browser:
 
 ### 🗜️ Hardware
 - [Groq](https://wow.groq.com/): Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.
+
+### 📋 Others
+- [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): Multiple LLMs Evaluation board, currently include 60+ LLMs, and provided a comparison of pair of LLMs.([board](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [pair evaluate](https://chat.lmsys.org/))
