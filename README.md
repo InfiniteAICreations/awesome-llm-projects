@@ -3,23 +3,24 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
-- Projects
-    - ChatBot
-    - Voice
-    - Music
-    - Image
-    - 3D Model
-    - Video
-    - Search Engine
-    - Develop Assistant
-    - AI Agent
-    - Multi-Agent Collaboration
-    - Terminal
-    - Launcher
-    - PPT / Keynote
-    - Web Sites
-    - Hardware
-    - Others
+
+[Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
+  -[ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
+  -[Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
+  -[Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
+  -[Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
+  -[3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
+  -[Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
+  -[Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
+  -[Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
+  -[AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
+  -[Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
+  -[Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
+  -[Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
+  -[PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
+  -[Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
+  -[Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
+  -[Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
 
 ## Projects
 ‼️Attention: If the project name starts with `*`, it means the project is neither open source nor has it released any applications yet.
