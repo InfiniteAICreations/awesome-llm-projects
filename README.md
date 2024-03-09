@@ -4,6 +4,8 @@
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
 <br />
 
+*[中文](README.zh_CN.md)*
+
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
