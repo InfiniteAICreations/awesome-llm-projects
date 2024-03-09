@@ -4,7 +4,7 @@
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
 <br />
 
-*[中文](README.md)*
+*[English](README.md)*
 
 🤖 我们的目标是建立并培育一系列项目，展示 AIGC 应用的卓越多样性和潜力。
 
