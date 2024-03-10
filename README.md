@@ -108,3 +108,4 @@ Including search engine, web browser:
 
 ### 📋 Others
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): Multiple LLMs Evaluation board, currently include 60+ LLMs, and provided a comparison of pair of LLMs.([board](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [pair evaluate](https://chat.lmsys.org/))
+- [Cradle](https://github.com/BAAI-Agents/Cradle): The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
