@@ -34,6 +34,7 @@
 - [Gemini](https://gemini.google.com/): Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
 - [character.ai](https://beta.character.ai/): Where intelligent agents live!
 - [Claude](https://claude.ai/): Talk with Claude, an AI assistant from Anthropic.
+- [Mistral AI](https://chat.mistral.ai/): Mistral makes frontier AI ubiquitous, and to provide tailor-made AI to all the builders.
 
 ### 🗣️ Voice
 Including text to speech, speech to text, speech to speech, generate voice:
