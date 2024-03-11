@@ -24,6 +24,7 @@
   - [PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
   - [Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
   - [Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
+  - [Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
   - [Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
 
 ## Projects
@@ -106,6 +107,9 @@ Including search engine, web browser:
 
 ### 🗜️ Hardware
 - [Groq](https://wow.groq.com/): Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.
+
+### ⌨️ Prompt Engineering
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
 
 ### 📋 Others
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): Multiple LLMs Evaluation board, currently include 60+ LLMs, and provided a comparison of pair of LLMs.([board](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [pair evaluate](https://chat.lmsys.org/))

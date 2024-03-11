@@ -24,6 +24,7 @@
   - [PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
   - [Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
   - [Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
+  - [Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
   - [Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
 
 
@@ -108,6 +109,9 @@
 
 ### 🗜️ 硬件
 - [Groq](https://wow.groq.com/): Groq 的使命是为 GenAI 推理速度设定标准，帮助实时 AI 应用今天就成为现实。
+
+### ⌨️ Prompt Engineering
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 提示工程的指南、论文、讲座、笔记本和资源。
 
 ### 📋 其他
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): 多个 LLMs 评估板，目前包括 60 多个 LLMs，并提供了一对 LLMs 的比较。([排行榜](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [对比评估](https://chat.lmsys.org/))
