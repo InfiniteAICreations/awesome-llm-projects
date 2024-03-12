@@ -116,4 +116,4 @@
 ### 📋 其他
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): 多个 LLMs 评估板，目前包括 60 多个 LLMs，并提供了一对 LLMs 的比较。([排行榜](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [对比评估](https://chat.lmsys.org/))
 - [Cradle](https://github.com/BAAI-Agents/Cradle): Cradle 框架是通用计算机控制 (GCC) 的首次尝试。通过在一个标准化的通用环境中，以最少的要求，支持代理展现强大的推理能力、自我提升和技能管理，Cradle 使代理能够精通任何计算机任务。
-
+- [LLMPerf](https://github.com/ray-project/llmperf): 用于评估LLM API性能的工具。还提供了相应的 [排行榜](https://github.com/ray-project/llmperf-leaderboard)
