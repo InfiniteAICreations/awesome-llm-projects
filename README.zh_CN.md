@@ -97,6 +97,7 @@
 ### 💻 终端
 - [Warp](https://www.warp.dev/): Warp 是一个旨在通过提供 AI 驱动的命令查找帮助和允许用户用纯英语输入他们的目标来增强终端体验的工具。
 - [Gorilla](https://github.com/gorilla-llm/gorilla-cli): Gorilla CLI 以用户为中心，增强您的命令行交互体验。
+- [CodeWhisperer Cli](https://aws.amazon.com/cn/blogs/devops/introducing-amazon-codewhisperer-for-command-line/): CodeWhisperer Cli是AIGC加持的常用命令行联想、补全工具。之前广为人知的是[fig](https://fig.io/).
 
 ### 🚀 启动器
 - [Raycast](https://www.raycast.com/): Raycast 是一个快速且完全可扩展的启动器。它让你完成任务、计算、共享常用链接，以及更多操作。

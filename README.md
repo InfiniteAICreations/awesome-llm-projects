@@ -95,6 +95,7 @@ Including search engine, web browser:
 ### 💻 Terminal
 - [Warp](https://www.warp.dev/): Warp is a tool designed to enhance the terminal experience by providing AI-powered assistance for command lookups and allow users to input their objectives in plain English
 - [Gorilla](https://github.com/gorilla-llm/gorilla-cli): Gorilla CLI powers your command-line interactions with a user-centric tool.
+- [CodeWhisperer Cli](https://aws.amazon.com/cn/blogs/devops/introducing-amazon-codewhisperer-for-command-line/): CodeWhisperer for command line adds IDE-style completions for hundreds of popular CLIs like as Git, npm, Docker, MongoDB Atlas, and the AWS CLI. Previously known as [fig](https://fig.io/).
 
 ### 🚀 Launcher
 - [Raycast](https://www.raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
