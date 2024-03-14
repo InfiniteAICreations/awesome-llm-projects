@@ -9,23 +9,23 @@
 🤖 我们的目标是建立并培育一系列项目，展示 AIGC 应用的卓越多样性和潜力。
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
-  - [ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
-  - [Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
-  - [Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
-  - [Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
-  - [3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
-  - [Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
-  - [Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
-  - [Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
-  - [AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
-  - [Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
-  - [Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
-  - [Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
-  - [PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
-  - [Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
-  - [Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
-  - [Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
-  - [Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
+- [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
+- [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
+- [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
+- [🌄Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
+- [🧸3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
+- [🎥Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
+- [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
+- [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
+- [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
+- [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
+- [💻Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
+- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
+- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
+- [📰Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
+- [🗜Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
+- [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
+- [📋Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
 
 
 ## 项目
@@ -85,6 +85,7 @@
 - [GitHub Copilot](https://github.com/features/copilot): 实时获取基于 AI 的建议。
 - [Codeium](https://codeium.com): Codeium 提供最佳的 AI 代码补全、搜索和聊天服务 — 全部免费。它支持 70 多种语言，并与您喜爱的 IDEs 集成，具有闪电般的速度和最先进的建议质量。
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/): Amazon CodeWhisperer 是 IDE 和命令行的 AI 驱动生产力工具，根据注释和现有代码生成代码建议。
+- [*Devin](https://www.cognition-labs.com/blog): Devin是Cognition推出的AI软件开发工程师
 
 ### 🧠 AI 代理
 - [AgentGPT](https://agentgpt.reworkd.ai/): 在您的浏览器中组装、配置和部署自治 AI 代理。

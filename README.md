@@ -9,23 +9,23 @@
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
-  - [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
-  - [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
-  - [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
-  - [🌄Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
-  - [🧸3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
-  - [🎥Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
-  - [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
-  - [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
-  - [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
-  - [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
-  - [💻Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
-  - [🚀Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
-  - [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
-  - [📰Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
-  - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
-  - [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
-  - [📋Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
+- [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
+- [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
+- [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
+- [🌄Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
+- [🧸3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
+- [🎥Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
+- [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
+- [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
+- [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
+- [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
+- [💻Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
+- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
+- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
+- [📰Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
+- [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
+- [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
+- [📋Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
 
 ## Projects
 ‼️Attention: If the project name starts with `*`, it means the project is neither open source nor has it released any applications yet.
@@ -83,6 +83,7 @@ Including search engine, web browser:
 - [GitHub Copilot](https://github.com/features/copilot): Get AI-based suggestions in real time.
 - [Codeium](https://codeium.com): Codeium offers best in class AI code completion, search, and chat — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/): Amazon CodeWhisperer is an AI-powered productivity tool for the IDE and command line that generates code suggestions based on comments and existing code.
+- [*Devin](https://www.cognition-labs.com/blog): Introducing Devin, the first AI software engineer and setting a new state of the art on the SWE-bench coding benchmark.
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
