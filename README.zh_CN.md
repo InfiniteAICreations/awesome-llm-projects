@@ -61,6 +61,7 @@
 - [StickerBaker](https://stickerbaker.com/): StickerBaker 是一个开源工具，允许用户使用 AI 技术创建贴纸。
 - [*PIXART-Σ](https://pixart-alpha.github.io/PixArt-sigma-project/): 从弱到强训练扩散变换器进行 4K 文本到图像生成。
 - [ResAdapter](https://github.com/bytedance/res-adapter): ResAdapter 是一个即插即用的分辨率适配器
+- [FaceChain](https://github.com/modelscope/facechain): FaceChain是一款用于生成数字孪生的工具，类似妙鸭相机的开源版本。
 
 ### 🧸 3D 模型
 包括文本到 3D 模型：
