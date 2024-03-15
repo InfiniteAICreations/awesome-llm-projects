@@ -86,6 +86,7 @@
 - [Codeium](https://codeium.com): Codeium 提供最佳的 AI 代码补全、搜索和聊天服务 — 全部免费。它支持 70 多种语言，并与您喜爱的 IDEs 集成，具有闪电般的速度和最先进的建议质量。
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/): Amazon CodeWhisperer 是 IDE 和命令行的 AI 驱动生产力工具，根据注释和现有代码生成代码建议。
 - [*Devin](https://www.cognition-labs.com/blog): Devin是Cognition推出的AI软件开发工程师
+- [Transformer Debugger](https://github.com/openai/transformer-debugger): Transformer Debugger (TDB) 是OpenAI开源的调试器，该工具将自动可解释性技术与稀疏自动编码器相结合。
 
 ### 🧠 AI 代理
 - [AgentGPT](https://agentgpt.reworkd.ai/): 在您的浏览器中组装、配置和部署自治 AI 代理。
