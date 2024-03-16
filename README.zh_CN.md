@@ -1,32 +1,40 @@
-<br />
-<h1 align="center">awesome-aigc-related-projects</h1>
-<p align="center">
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
-<br />
+<div align="center">
+  <h1 align="center">awesome-aigc-related-projects</h1>
+  <p>
+      <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md">简体中文</a>
+  </p>
 
-*[English](README.md)*
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 🤖 我们的目标是建立并培育一系列项目，展示 AIGC 应用的卓越多样性和潜力。
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
-- [🦄LLMs](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-llms)
-- [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
-- [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
-- [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
-- [🌄Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
-- [🧸3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
-- [🎥Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
-- [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
-- [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
-- [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
-- [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
-- [💻Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
-- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
-- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
-- [📰Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
-- [🗜Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
-- [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
-- [📋Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
+- [🦄大语言模型](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
+- [💬聊天机器人](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)
+- [🗣️语音](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E8%AF%AD%E9%9F%B3)
+- [🎵音乐](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E9%9F%B3%E4%B9%90)
+- [🌄图片](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%9B%BE%E5%83%8F)
+- [🧸3D模型](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-3d-%E6%A8%A1%E5%9E%8B)
+- [🎥视频](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E8%A7%86%E9%A2%91)
+- [🕸️搜索引擎](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
+- [👩🏽‍💻开发助手](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B)
+- [🧠AI代理](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-ai-%E4%BB%A3%E7%90%86)
+- [🤼多智能体合作](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%A4%9A%E4%BB%A3%E7%90%86%E5%90%88%E4%BD%9C)
+- [💻终端](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E7%BB%88%E7%AB%AF)
+- [🚀启动器](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%90%AF%E5%8A%A8%E5%99%A8)
+- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-ppt--keynote)
+- [📰网站](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E7%BD%91%E7%AB%99)
+- [🗜硬件](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E7%A1%AC%E4%BB%B6)
+- [⌨提示词工程](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-prompt-engineering)
+- [📋其他](https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md#-%E5%85%B6%E4%BB%96)
 
 
 ## 项目
@@ -96,7 +104,7 @@
 ### 🧠 AI 代理
 - [AgentGPT](https://agentgpt.reworkd.ai/): 在您的浏览器中组装、配置和部署自治 AI 代理。
 
-### 🤼 多代理合作
+### 🤼 多智能体合作
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT 以一行需求为输入，并输出用户故事 / 竞争分析 / 需求 / 数据结构 / API / 文档等。
 - [ChatDev](https://chatdev.ai/): ChatDev 的主要目标是提供一个易用、高度可定制和可扩展的框架，它基于大型语言模型 (LLMs)，为研究集体智能提供了理想的场景。
 
@@ -118,7 +126,7 @@
 ### 🗜️ 硬件
 - [Groq](https://wow.groq.com/): Groq 的使命是为 GenAI 推理速度设定标准，帮助实时 AI 应用今天就成为现实。
 
-### ⌨️ Prompt Engineering
+### ⌨️ 提示词工程
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 提示工程的指南、论文、讲座、笔记本和资源。
 
 ### 📋 其他

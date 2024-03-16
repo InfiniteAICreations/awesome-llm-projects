@@ -1,10 +1,18 @@
-<br />
-<h1 align="center">awesome-aigc-related-projects</h1>
-<p align="center">
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
-<br />
+<div align="center">
+  <h1 align="center">awesome-aigc-related-projects</h1>
+  <p>
+      <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md">简体中文</a>
+  </p>
 
-*[中文](README.zh_CN.md)*
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
 
