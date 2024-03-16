@@ -9,6 +9,7 @@
 🤖 我们的目标是建立并培育一系列项目，展示 AIGC 应用的卓越多样性和潜力。
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
+- [🦄LLMs](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-llms)
 - [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
 - [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
 - [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
@@ -30,6 +31,9 @@
 
 ## 项目
 ‼️注意：如果项目名称以 `*` 开头，意味着该项目既不是开源的，也尚未发布任何应用程序。
+
+### 🦄 大语言模型
+- [Command-R](https://txt.cohere.com/command-r/): Command-R是专为RAG优化的开源大语言模型，35B，128K上下文。
 
 ### 💬 聊天机器人
 - [ChatGPT](https://chat.openai.com/): ChatGPT 是一个免费的 AI 系统。用它来进行引人入胜的对话，获得洞察，自动化任务，并见证 AI 的未来，所有这些都在一个地方。

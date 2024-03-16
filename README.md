@@ -9,6 +9,7 @@
 🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
+- [🦄LLMs](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-llms)
 - [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
 - [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
 - [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
@@ -29,6 +30,9 @@
 
 ## Projects
 ‼️Attention: If the project name starts with `*`, it means the project is neither open source nor has it released any applications yet.
+
+### 🦄 LLMs
+- [Command-R](https://txt.cohere.com/command-r/): Command-R is a scalable generative model targeting RAG and Tool Use to enable production-scale AI for enterprise.
 
 ### 💬 ChatBot
 - [ChatGPT](https://chat.openai.com/): ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
