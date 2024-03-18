@@ -41,6 +41,7 @@
 
 ### 🦄 LLMs
 - [Command-R](https://txt.cohere.com/command-r/): Command-R is a scalable generative model targeting RAG and Tool Use to enable production-scale AI for enterprise.
+- [Grok-1](https://x.ai/blog/grok-os): Grok-1 is a 314 billion parameter Mixture-of-Experts model trained from scratch by xAI.
 
 ### 💬 ChatBot
 - [ChatGPT](https://chat.openai.com/): ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
