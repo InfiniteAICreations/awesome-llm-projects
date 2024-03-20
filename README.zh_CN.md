@@ -76,6 +76,7 @@
 - [ResAdapter](https://github.com/bytedance/res-adapter): ResAdapter 是一个即插即用的分辨率适配器。
 - [FaceChain](https://github.com/modelscope/facechain): FaceChain是一款用于生成数字孪生的工具，类似妙鸭相机的开源版本。
 - [APISR](https://github.com/Kiteretsu77/APISR): APISR是一款图片超分辨率。
+- [OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models](https://kongzhecn.github.io/omg-project/): OMG是一个用于多概念(multi-concept)图像生成的框架，简而言之多人头像生成一张图。
 
 ### 🧸 3D 模型
 包括文本到 3D 模型：

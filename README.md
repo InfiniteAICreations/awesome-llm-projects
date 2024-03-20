@@ -74,6 +74,7 @@ Including text to image, image to image:
 - [ResAdapter](https://github.com/bytedance/res-adapter):  ResAdapter is a plug-and-play resolution adapter for enabling diffusion models of arbitrary style domains to generate resolution-free images: no additional training, no additional inference and no style transfer.
 - [FaceChain](https://github.com/modelscope/facechain): FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [APISR](https://github.com/Kiteretsu77/APISR): Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
+- [OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models](https://kongzhecn.github.io/omg-project/): OMG is a framework for multi-concept image generation
 
 ### 🧸 3D Model
 Including text to 3D model:
