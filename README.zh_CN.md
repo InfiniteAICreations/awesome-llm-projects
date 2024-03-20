@@ -73,8 +73,9 @@
 - [Midjourney](https://www.midjourney.com/): Midjourney 是一个生成式人工智能程序和服务，它从自然语言描述中创建图像，类似于 OpenAI 的 DALL-E 和 Stability AI 的 Stable Diffusion 等其他 AI 技术。
 - [StickerBaker](https://stickerbaker.com/): StickerBaker 是一个开源工具，允许用户使用 AI 技术创建贴纸。
 - [*PIXART-Σ](https://pixart-alpha.github.io/PixArt-sigma-project/): 从弱到强训练扩散变换器进行 4K 文本到图像生成。
-- [ResAdapter](https://github.com/bytedance/res-adapter): ResAdapter 是一个即插即用的分辨率适配器
+- [ResAdapter](https://github.com/bytedance/res-adapter): ResAdapter 是一个即插即用的分辨率适配器。
 - [FaceChain](https://github.com/modelscope/facechain): FaceChain是一款用于生成数字孪生的工具，类似妙鸭相机的开源版本。
+- [APISR](https://github.com/Kiteretsu77/APISR): APISR是一款图片超分辨率。
 
 ### 🧸 3D 模型
 包括文本到 3D 模型：
