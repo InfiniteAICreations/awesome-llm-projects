@@ -59,6 +59,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [Krisp](https://krisp.ai/): Krisp cancels background noise and reduces echo during your calls.
 - [Voicemod](https://www.voicemod.net/): Voicemod is a free real-time voice changer and soundboard available on both Windows and macOS.
 - [*NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/): Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models.
+- [VoiceCraft](https://github.com/jasonppy/VoiceCraft): VoiceCraft is Zero-Shot Speech Editing and Text-to-Speech in the Wild.
 
 ### 🎵 Music
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs

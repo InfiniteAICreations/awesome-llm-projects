@@ -61,6 +61,7 @@
 - [Krisp](https://krisp.ai/): Krisp 在通话中取消背景噪音并减少回声。
 - [Voicemod](https://www.voicemod.net/): Voicemod 是一个免费的实时声音变换器和声音板，适用于 Windows 和 macOS。
 - [*NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/): 使用因子化编解码器和扩散模型的零样本语音合成。
+- [VoiceCraft](https://github.com/jasonppy/VoiceCraft): VoiceCraft是零样本语言编辑和文本转语音的开源项目。
 
 ### 🎵 音乐
 - [Suno](https://www.suno.ai/): Suno 是一个创新工具，旨在利用人工智能从文本输入创建原创歌曲
