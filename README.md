@@ -130,6 +130,7 @@ Including search engine, web browser:
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
+- [Prompt Library](https://www.moreusefulthings.com/prompts): The Dr. Ethan Mollick and Dr. Lilach Mollick of Wharton School of the University of Pennsylvania Prompt Library.
 
 ### 📋 Others
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): Multiple LLMs Evaluation board, currently include 60+ LLMs, and provided a comparison of pair of LLMs.([board](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [pair evaluate](https://chat.lmsys.org/))

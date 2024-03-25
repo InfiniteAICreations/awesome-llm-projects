@@ -132,6 +132,7 @@
 
 ### ⌨️ 提示词工程
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 提示工程的指南、论文、讲座、笔记本和资源。
+- [Prompt Library](https://www.moreusefulthings.com/prompts): 沃顿商学院的Dr. Ethan Mollick和Dr. Lilach Mollick的提示词库.
 
 ### 📋 其他
 - [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): 多个 LLMs 评估板，目前包括 60 多个 LLMs，并提供了一对 LLMs 的比较。([排行榜](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [对比评估](https://chat.lmsys.org/))
