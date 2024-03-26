@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">awesome-aigc-related-projects</h1>
+  <h1 align="center">awesome-llm-related-projects</h1>
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-projects/blob/main/README.zh_CN.md">简体中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-related-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md">简体中文</a>
   </p>
 
   <h4 align="center">
@@ -14,27 +14,27 @@
   </h4>
 </div>
 
-🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of AIGC applications.
+🤖 Our goal is to establish and cultivate a comprehensive collection of projects, demonstrating the remarkable versatility and potential of llm applications.
 
-[Projects index](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#projects):
-- [🦄LLMs](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-llms)
-- [💬ChatBot](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-chatbot)
-- [🗣️Voice](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-voice)
-- [🎵Music](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-music)
-- [🌄Image](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-image)
-- [🧸3D Model](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-3d-model)
-- [🎥Video](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-video)
-- [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-search-engine)
-- [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-develop-assistant)
-- [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ai-agent)
-- [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-multi-agent-collaboration)
-- [💻Terminal](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-terminal)
-- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-launcher)
-- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-ppt--keynote)
-- [📰Web Sites](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-web-sites)
-- [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-hardware)
-- [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-prompt-engineering)
-- [📋Others](https://github.com/InfiniteAICreations/awesome-aigc-related-projects#-others)
+[Projects index](https://github.com/InfiniteAICreations/awesome-llm-related-projects#projects):
+- [🦄LLMs](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-llms)
+- [💬ChatBot](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-chatbot)
+- [🗣️Voice](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-voice)
+- [🎵Music](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-music)
+- [🌄Image](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-image)
+- [🧸3D Model](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-3d-model)
+- [🎥Video](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-video)
+- [🕸️Search Engine](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-search-engine)
+- [👩🏽‍💻Develop Assistant](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-develop-assistant)
+- [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-ai-agent)
+- [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-multi-agent-collaboration)
+- [💻Terminal](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-terminal)
+- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-launcher)
+- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-ppt--keynote)
+- [📰Web Sites](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-web-sites)
+- [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-hardware)
+- [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-prompt-engineering)
+- [📋Others](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-others)
 
 ## Projects
 ‼️Attention: If the project name starts with `*`, it means the project is neither open source nor has it released any applications yet.
