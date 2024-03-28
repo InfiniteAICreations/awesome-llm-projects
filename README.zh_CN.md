@@ -92,6 +92,7 @@
 - [*Emote Portrait Alive](https://humanaigc.github.io/emote-portrait-alive/): 在弱条件下使用 Audio2Video 扩散模型生成表情丰富的人像视频
 - [Runway](https://runwayml.com/): Runway 是一家应用 AI 研究公司，塑造艺术、娱乐和人类创造力的下一个时代。
 - [HeyGen](https://www.heygen.com/): HeyGen 是一个创新的视频平台，利用生成式 AI 的力量简化您的视频创建流程。
+- [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): 照片结合音频，自动生成对应的视频。
 
 ### 🕸️ 搜索引擎
 包括搜索引擎、网络浏览器：

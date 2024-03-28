@@ -90,6 +90,7 @@ Including text to video, image to video, video to video:
 - [*Emote Portrait Alive](https://humanaigc.github.io/emote-portrait-alive/): Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 - [Runway](https://runwayml.com/): Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 - [HeyGen](https://www.heygen.com/): HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process.
+- [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animations
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
