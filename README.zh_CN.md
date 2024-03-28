@@ -42,7 +42,9 @@
 
 ### 🦄 大语言模型
 - [Command-R](https://txt.cohere.com/command-r/): Command-R是专为RAG优化的开源大语言模型，35B，128K上下文。
-- - [Grok-1](https://x.ai/blog/grok-os): Grok-1马斯克的xAI开源的314B参数的混合专家大语言模型（Mixture-of-Experts model）。
+- [Grok-1](https://x.ai/blog/grok-os): Grok-1马斯克的xAI开源的314B参数的混合专家大语言模型（Mixture-of-Experts model）。
+- [Mistral](https://mistral.ai/technology/#models): Mistral AI推出的开源大语言模型，包括7B, 8x7B
+- [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): Databricks推出的MoE开源大语言模型
 
 ### 💬 聊天机器人
 - [ChatGPT](https://chat.openai.com/): ChatGPT 是一个免费的 AI 系统。用它来进行引人入胜的对话，获得洞察，自动化任务，并见证 AI 的未来，所有这些都在一个地方。
