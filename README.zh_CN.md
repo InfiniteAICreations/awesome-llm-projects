@@ -132,6 +132,7 @@
 
 ### 🗜️ 硬件
 - [Groq](https://wow.groq.com/): Groq 的使命是为 GenAI 推理速度设定标准，帮助实时 AI 应用今天就成为现实。
+- [*LOOI Root](https://looirobot.com/): 将手机变成一个桌面机器人。
 
 ### ⌨️ 提示词工程
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 提示工程的指南、论文、讲座、笔记本和资源。
