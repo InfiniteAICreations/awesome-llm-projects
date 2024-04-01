@@ -18,6 +18,7 @@
 
 [Projects index](https://github.com/InfiniteAICreations/awesome-llm-related-projects#projects):
 - [🦄LLMs](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-llms)
+- [🏆 Benchmarks Leaderboard](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-benchmarks-leaderboard)
 - [💬ChatBot](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-chatbot)
 - [🗣️Voice](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-voice)
 - [🎵Music](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-music)
@@ -44,6 +45,17 @@
 - [Grok-1](https://x.ai/blog/grok-os): Grok-1 is a 314 billion parameter Mixture-of-Experts model trained from scratch by xAI.
 - [Mistral](https://mistral.ai/technology/#models): Mistral AI releases Open Source LLMs, including Mistral 7B, Mistral 8x7B.
 - [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): DBRX is an open, general-purpose LLM created by Databricks.
+
+### 🏆 Benchmarks Leaderboard
+- [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
+- [LMSys Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard): A crowdsourced, randomized battle platform. Use user votes to compute Elo ratings.
+- [META Leaderboard](https://huggingface.co/spaces/mteb/leaderboard): Massive Text Embedding Benchmark (MTEB) Leaderboard.
+- [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard): Aim to benchmark the performance (latency, throughput & memory) of LLMs with different hardwares, backends and optimizations using Optimum-Benchmark and Optimum flavors.
+- [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard): Compare performance of base multilingual code generation models on HumanEval benchmark and MultiPL-E.
+- [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard): Rank and evaluate speech recognition models on the Hugging Face Hub.
+- [Toolbench Leaderboard](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard): An evaluation for LLM tool manipulation capabilities.
+- [OpenCompass 2.0 LLM Leaderboard](https://huggingface.co/spaces/opencompass/opencompass-llm-leaderboard): Provides comprehensive, objective, and neutral scores and rankings for top-tier large language models and multimodal models.
+- [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard): Evaluates the performance of Korean Large Language Model (LLM).
 
 ### 💬 ChatBot
 - [ChatGPT](https://chat.openai.com/): ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
@@ -137,7 +149,5 @@ Including search engine, web browser:
 - [Prompt Library](https://www.moreusefulthings.com/prompts): The Dr. Ethan Mollick and Dr. Lilach Mollick of Wharton School of the University of Pennsylvania Prompt Library.
 
 ### 📋 Others
-- [LMSYS Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-03-arena/): Multiple LLMs Evaluation board, currently include 60+ LLMs, and provided a comparison of pair of LLMs.([board](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), [pair evaluate](https://chat.lmsys.org/))
 - [Cradle](https://github.com/BAAI-Agents/Cradle): The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 - [LLMPerf](https://github.com/ray-project/llmperf): A Tool for evaulation the performance of LLM APIs. Also provide a [Leaderboard](https://github.com/ray-project/llmperf-leaderboard) for LLMs.
-- [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
