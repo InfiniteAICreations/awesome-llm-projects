@@ -45,6 +45,7 @@
 - [Grok-1](https://x.ai/blog/grok-os): Grok-1 is a 314 billion parameter Mixture-of-Experts model trained from scratch by xAI.
 - [Mistral](https://mistral.ai/technology/#models): Mistral AI releases Open Source LLMs, including Mistral 7B, Mistral 8x7B.
 - [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): DBRX is an open, general-purpose LLM created by Databricks.
+- [mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl): Modularized Multimodal Large Language Model for Document Understanding.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
@@ -108,6 +109,7 @@ Including text to video, image to video, video to video:
 - [HeyGen](https://www.heygen.com/): HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process.
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animations
 - [MuseV](https://github.com/TMElyralab/MuseV): Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising.
+- [CameraCtrl](https://hehao13.github.io/projects-CameraCtrl/): Enabling Camera Control for Text-to-Video Generation.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
