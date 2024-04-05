@@ -97,6 +97,7 @@ Including text to 3D model:
 
 - [TripoSR](https://github.com/VAST-AI-Research/TripoSR): TripoSR is a fast and feed-forward 3D generative model developed in collaboration between Stability AI and Tripo AI.
 - [PantoMatrix](https://github.com/PantoMatrix/PantoMatrix): PantoMatrix: Talking Face and Body Animation Generation
+- [Gaussian Head Avatar]():Ultra High-fidelity Head Avatar via Dynamic Gaussians.
 
 ### 🎥 Video
 Including text to video, image to video, video to video:
