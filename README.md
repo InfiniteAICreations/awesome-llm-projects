@@ -107,6 +107,7 @@ Including text to video, image to video, video to video:
 - [Runway](https://runwayml.com/): Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 - [HeyGen](https://www.heygen.com/): HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process.
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animations
+- [MuseV](https://github.com/TMElyralab/MuseV): Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
