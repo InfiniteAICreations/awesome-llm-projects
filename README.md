@@ -90,6 +90,7 @@ Including text to image, image to image:
 - [FaceChain](https://github.com/modelscope/facechain): FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [APISR](https://github.com/Kiteretsu77/APISR): Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 - [OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models](https://kongzhecn.github.io/omg-project/): OMG is a framework for multi-concept image generation
+- [BasicPBC](https://ykdai.github.io/projects/InclusionMatching): Learning Inclusion Matching for Animation Paint Bucket Colorization.
 
 ### 🧸 3D Model
 Including text to 3D model:
