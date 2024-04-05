@@ -158,3 +158,4 @@ Including search engine, web browser:
 ### 📋 Others
 - [Cradle](https://github.com/BAAI-Agents/Cradle): The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 - [LLMPerf](https://github.com/ray-project/llmperf): A Tool for evaulation the performance of LLM APIs. Also provide a [Leaderboard](https://github.com/ray-project/llmperf-leaderboard) for LLMs.
+- [WebLINX](https://mcgill-nlp.github.io/weblinx/): Real-world website navigation with multi-turn dialogue.
