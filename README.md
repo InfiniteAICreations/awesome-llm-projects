@@ -128,6 +128,7 @@ Including search engine, web browser:
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [*Devin](https://www.cognition-labs.com/blog): Introducing Devin, the first AI software engineer and setting a new state of the art on the SWE-bench coding benchmark.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin): An autonomous AI software engineer who is capable of executing complex engineering tasks and collaborating actively with users on software development projects.
+- [Plandex](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
