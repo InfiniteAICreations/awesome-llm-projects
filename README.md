@@ -122,11 +122,12 @@ Including search engine, web browser:
 - [GitHub Copilot](https://github.com/features/copilot): Get AI-based suggestions in real time.
 - [Codeium](https://codeium.com): Codeium offers best in class AI code completion, search, and chat — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/): Amazon CodeWhisperer is an AI-powered productivity tool for the IDE and command line that generates code suggestions based on comments and existing code.
-- [*Devin](https://www.cognition-labs.com/blog): Introducing Devin, the first AI software engineer and setting a new state of the art on the SWE-bench coding benchmark.
 - [Transformer Debugger](https://github.com/openai/transformer-debugger): Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [*Devin](https://www.cognition-labs.com/blog): Introducing Devin, the first AI software engineer and setting a new state of the art on the SWE-bench coding benchmark.
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin): An autonomous AI software engineer who is capable of executing complex engineering tasks and collaborating actively with users on software development projects.
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
