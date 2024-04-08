@@ -46,6 +46,7 @@
 - [Mistral](https://mistral.ai/technology/#models): Mistral AI releases Open Source LLMs, including Mistral 7B, Mistral 8x7B.
 - [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): DBRX is an open, general-purpose LLM created by Databricks.
 - [mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl): Modularized Multimodal Large Language Model for Document Understanding.
+- [OpenChat](https://github.com/imoneoi/openchat): Advancing Open-source Language Models with Imperfect Data
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
