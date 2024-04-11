@@ -49,6 +49,7 @@
 - [OpenChat](https://github.com/imoneoi/openchat): Advancing Open-source Language Models with Imperfect Data
 - [WizardLM](https://github.com/nlpxucan/WizardLM): Empowering Large Pre-Trained Language Models to Follow Complex Instructions
 - [CodeGemma-7b](https://huggingface.co/TechxGenus/CodeGemma-7b): An official Google release for code LLMs.
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM): Includes many Open Source Chinese LLMs.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
