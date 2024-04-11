@@ -159,6 +159,7 @@ Including search engine, web browser:
 ### 🗜️ Hardware
 - [Groq](https://wow.groq.com/): Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.
 - [*LOOI Root](https://looirobot.com/): Turn Your Smartphone into a Desktop Robot
+- [Friend](https://github.com/BasedHardware/friend): Open-Source AI Wearable with 24h+ on single charge
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
