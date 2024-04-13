@@ -117,6 +117,7 @@ Including text to video, image to video, video to video:
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animations
 - [MuseV](https://github.com/TMElyralab/MuseV): Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising.
 - [CameraCtrl](https://hehao13.github.io/projects-CameraCtrl/): Enabling Camera Control for Text-to-Video Generation.
+- [Pika](https://pika.art/home): Pika is the idea-to-video platform that sets your creativity in motion.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
