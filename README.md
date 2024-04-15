@@ -83,6 +83,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 
 ### 🎵 Music
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
+- [Udio](https://www.udio.com/): Make your music. Discover, create, and share music with the world.
 
 ### 🌄 Image
 Including text to image, image to image:
