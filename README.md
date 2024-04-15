@@ -100,6 +100,7 @@ Including text to image, image to image:
 - [BasicPBC](https://ykdai.github.io/projects/InclusionMatching): Learning Inclusion Matching for Animation Paint Bucket Colorization.
 - [DesignEdit](https://github.com/design-edit/DesignEdit): Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing.
 - [VAR](https://github.com/FoundationVision/VAR): a new visual generation method elevates GPT-style models beyond diffusion & Scaling laws observed.
+- [Ideogram](https://ideogram.ai/): Ideogram is a free-to-use AI tool that generates realistic images, posters, logos and more.
 
 ### 🧸 3D Model
 Including text to 3D model:
