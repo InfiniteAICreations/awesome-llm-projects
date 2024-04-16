@@ -166,6 +166,7 @@ Including search engine, web browser:
 - [*LOOI Root](https://looirobot.com/): Turn Your Smartphone into a Desktop Robot
 - [Friend](https://github.com/BasedHardware/friend): Open-Source AI Wearable with 24h+ on single charge
 - [insight](https://github.com/advaitpaliwal/insight): A raspberry pi lay around and built an AI wearable called insight.
+- [Limitless](https://www.limitless.ai/): Personalized AI powered by what you’ve seen, said, and heard.
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
