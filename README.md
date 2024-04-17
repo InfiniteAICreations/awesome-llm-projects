@@ -180,3 +180,4 @@ Including search engine, web browser:
 - [WebLINX](https://mcgill-nlp.github.io/weblinx/): Real-world website navigation with multi-turn dialogue.
 - [Latent Box](https://github.com/latentcat/latentbox): A collection of awesome-lists for AI, creativity and art.
 - [LLM Transparency Tool](https://github.com/facebookresearch/llm-transparency-tool): LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models.
+- [LLM Visualization](https://bbycroft.net/llm): A visualization and walkthrough of the LLM algorithm that backs OpenAI's ChatGPT. Explore the algorithm down to every add & multiply, seeing the whole process in action.
