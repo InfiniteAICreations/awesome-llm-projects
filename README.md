@@ -80,6 +80,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [*NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/): Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models.
 - [VoiceCraft](https://github.com/jasonppy/VoiceCraft): VoiceCraft is Zero-Shot Speech Editing and Text-to-Speech in the Wild.
 - [Parler-TTS](https://github.com/huggingface/parler-tts): Parler-TTS is a lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc).
+- [Sounds](https://www.optimizerai.xyz/): Sounds for creators, game developers, artists, video makers. Experience the best AI Sound FX generator
 
 ### 🎵 Music
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
