@@ -122,6 +122,7 @@ Including text to video, image to video, video to video:
 - [MuseV](https://github.com/TMElyralab/MuseV): Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising.
 - [CameraCtrl](https://hehao13.github.io/projects-CameraCtrl/): Enabling Camera Control for Text-to-Video Generation.
 - [Pika](https://pika.art/home): Pika is the idea-to-video platform that sets your creativity in motion.
+- [*VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/): Lifelike Audio-Driven Talking Faces Generated in Real Time.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
