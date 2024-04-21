@@ -35,6 +35,7 @@
 - [📰Web Sites](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-web-sites)
 - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-hardware)
 - [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-prompt-engineering)
+- [🤯LLMs Inference And Serving](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-llms-inference-and-serving)
 - [📋Others](https://github.com/InfiniteAICreations/awesome-llm-related-projects#-others)
 
 ## Projects
@@ -175,6 +176,12 @@ Including search engine, web browser:
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [Prompt Library](https://www.moreusefulthings.com/prompts): The Dr. Ethan Mollick and Dr. Lilach Mollick of Wharton School of the University of Pennsylvania Prompt Library.
+
+### 🤯 LLMs Inference and Serving
+- [vLLM](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference): Large Language Model Text Generation Inference
+- [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
+- [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
 
 ### 📋 Others
 - [Cradle](https://github.com/BAAI-Agents/Cradle): The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
