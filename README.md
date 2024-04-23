@@ -1,9 +1,11 @@
 <div align="center">
   <h1 align="center">awesome-llm-projects</h1>
+
+  <img src="./logo.jpg" alt="Logo" width="300" height="300" />
+
   <p>
       <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a>
   </p>
-
   <h4 align="center">
     <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome" />
