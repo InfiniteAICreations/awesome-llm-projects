@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">awesome-llm-related-projects</h1>
+  <h1 align="center">awesome-llm-projects</h1>
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-llm-related-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md">简体中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a>
   </p>
 
   <h4 align="center">
@@ -16,25 +16,25 @@
 
 🤖 我们的目标是收集一些LLM相关的项目，展示LLM的趋势和相关的应用
 
-[Projects index](https://github.com/InfiniteAICreations/awesome-llm-related-projects#projects):
-- [🦄大语言模型](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
-- [💬聊天机器人](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)
-- [🗣️语音](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E8%AF%AD%E9%9F%B3)
-- [🎵音乐](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E9%9F%B3%E4%B9%90)
-- [🌄图片](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%9B%BE%E5%83%8F)
-- [🧸3D模型](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-3d-%E6%A8%A1%E5%9E%8B)
-- [🎥视频](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E8%A7%86%E9%A2%91)
-- [🕸️搜索引擎](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
-- [👩🏽‍💻开发助手](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B)
-- [🧠AI代理](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-ai-%E4%BB%A3%E7%90%86)
-- [🤼多智能体合作](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%A4%9A%E4%BB%A3%E7%90%86%E5%90%88%E4%BD%9C)
-- [💻终端](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E7%BB%88%E7%AB%AF)
-- [🚀启动器](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%90%AF%E5%8A%A8%E5%99%A8)
-- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-ppt--keynote)
-- [📰网站](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E7%BD%91%E7%AB%99)
-- [🗜硬件](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E7%A1%AC%E4%BB%B6)
-- [⌨提示词工程](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#%EF%B8%8F-prompt-engineering)
-- [📋其他](https://github.com/InfiniteAICreations/awesome-llm-related-projects/blob/main/README.zh_CN.md#-%E5%85%B6%E4%BB%96)
+[Projects index](https://github.com/InfiniteAICreations/awesome-llm-projects#projects):
+- [🦄大语言模型](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
+- [💬聊天机器人](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)
+- [🗣️语音](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E8%AF%AD%E9%9F%B3)
+- [🎵音乐](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E9%9F%B3%E4%B9%90)
+- [🌄图片](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%9B%BE%E5%83%8F)
+- [🧸3D模型](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-3d-%E6%A8%A1%E5%9E%8B)
+- [🎥视频](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E8%A7%86%E9%A2%91)
+- [🕸️搜索引擎](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
+- [👩🏽‍💻开发助手](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B)
+- [🧠AI代理](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-ai-%E4%BB%A3%E7%90%86)
+- [🤼多智能体合作](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%A4%9A%E4%BB%A3%E7%90%86%E5%90%88%E4%BD%9C)
+- [💻终端](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E7%BB%88%E7%AB%AF)
+- [🚀启动器](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%90%AF%E5%8A%A8%E5%99%A8)
+- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-ppt--keynote)
+- [📰网站](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E7%BD%91%E7%AB%99)
+- [🗜硬件](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#%EF%B8%8F-%E7%A1%AC%E4%BB%B6)
+- [⌨提示词工程](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#%EF%B8%8F-prompt-engineering)
+- [📋其他](https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md#-%E5%85%B6%E4%BB%96)
 
 
 ## 项目
