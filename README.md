@@ -54,10 +54,11 @@
 - [CodeGemma-7b](https://huggingface.co/TechxGenus/CodeGemma-7b): An official Google release for code LLMs.
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM): Includes many Open Source Chinese LLMs.
 - [llama3](https://github.com/meta-llama/llama3): Meta newly released LLMs.
+- [Snowflake Arctic](https://github.com/Snowflake-Labs/snowflake-arctic): Arctic is a dense-MoE Hybrid transformer architecture pre-trained from scratch by the Snowflake AI Research Team. Taking an average of Coding (HumanEval+ and MBPP+), SQL Generation (Spider), and Instruction following (IFEval).
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
-- [LMSys Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard): A crowdsourced, randomized battle platform. Use user votes to compute Elo ratings.
+- [LMSys Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard): A crowdsourced, randomized battle platform. Use user votes to compute Elo ratings.
 - [META Leaderboard](https://huggingface.co/spaces/mteb/leaderboard): Massive Text Embedding Benchmark (MTEB) Leaderboard.
 - [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard): Aim to benchmark the performance (latency, throughput & memory) of LLMs with different hardwares, backends and optimizations using Optimum-Benchmark and Optimum flavors.
 - [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard): Compare performance of base multilingual code generation models on HumanEval benchmark and MultiPL-E.
