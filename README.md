@@ -128,6 +128,7 @@ Including text to video, image to video, video to video:
 - [CameraCtrl](https://hehao13.github.io/projects-CameraCtrl/): Enabling Camera Control for Text-to-Video Generation.
 - [Pika](https://pika.art/home): Pika is the idea-to-video platform that sets your creativity in motion.
 - [*VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/): Lifelike Audio-Driven Talking Faces Generated in Real Time.
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
