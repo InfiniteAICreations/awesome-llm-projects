@@ -151,6 +151,7 @@ Including search engine, web browser:
 - [Plandex](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks.
 - [Devika](https://github.com/stitionai/devika): an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
 - [Aider](https://github.com/paul-gauthier/aider?utm_source=hackernewsletter&utm_medium=email&utm_term=code): Aider is AI pair programming in your terminal.
+- [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol): A single common interface for communicating with agents
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
