@@ -138,6 +138,7 @@ Including search engine, web browser:
 - [Perplexity](https://www.perplexity.ai/): Perplexity AI unlocks the power of knowledge with information discovery and sharing.
 - [Arc](https://arc.net/): Effortlessly organize everything you do online — work, study, hobbies — all in one window with Spaces and Profiles.
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [Reor](https://github.com/reorproject/reor): Private & offline AI personal knowledge management app.
 
 ### 👩🏽‍💻 Develop Assistant
 - [GitHub Copilot](https://github.com/features/copilot): Get AI-based suggestions in real time.
