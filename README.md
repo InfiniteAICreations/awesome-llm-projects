@@ -109,6 +109,7 @@ Including text to image, image to image:
 - [Ideogram](https://ideogram.ai/): Ideogram is a free-to-use AI tool that generates realistic images, posters, logos and more.
 - [MagicClothing](https://github.com/ShineChen1024/MagicClothing):  Focus on controllable garment-driven image synthesis.
 - [*IntrinsicAnything](https://zju3dv.github.io/IntrinsicAnything/): Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination.
+- [HeyBeauty](https://heybeauty.ai/): Discover Beauty with AI, Make Fashion redefined.
 
 ### 🧸 3D Model
 Including text to 3D model:
