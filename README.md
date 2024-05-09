@@ -56,6 +56,7 @@
 - [llama3](https://github.com/meta-llama/llama3): Meta newly released LLMs.
 - [Snowflake Arctic](https://github.com/Snowflake-Labs/snowflake-arctic): Arctic is a dense-MoE Hybrid transformer architecture pre-trained from scratch by the Snowflake AI Research Team. Taking an average of Coding (HumanEval+ and MBPP+), SQL Generation (Spider), and Instruction following (IFEval).
 - [DeepSeek-V2-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat): A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+- [Qwen 1.8B,7B,14B,72B](https://github.com/QwenLM/Qwen): Chat & pretrained large language model proposed by Alibaba Cloud.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
