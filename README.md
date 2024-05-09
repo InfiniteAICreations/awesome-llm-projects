@@ -55,6 +55,7 @@
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM): Includes many Open Source Chinese LLMs.
 - [llama3](https://github.com/meta-llama/llama3): Meta newly released LLMs.
 - [Snowflake Arctic](https://github.com/Snowflake-Labs/snowflake-arctic): Arctic is a dense-MoE Hybrid transformer architecture pre-trained from scratch by the Snowflake AI Research Team. Taking an average of Coding (HumanEval+ and MBPP+), SQL Generation (Spider), and Instruction following (IFEval).
+- [DeepSeek-V2-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat): A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
