@@ -1,7 +1,12 @@
 <div align="center">
   <h1 align="center">awesome-llm-projects</h1>
 
-  <img src="./logo.jpg" alt="Logo" width="300" height="300" />
+  <h2 align="center">
+    <a href="https://github.com/InfiniteAICreations/awesome-llm-papers" target="_blank">awesome-llm-papers</a> |
+    <a href="https://github.com/InfiniteAICreations/awesome-llm-datasets" target="_blank">awesome-llm-datasets</a>
+  </h2>
+
+  <img src="./logo.png" alt="Logo" width="300" height="300" />
 
   <p>
       <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a>
