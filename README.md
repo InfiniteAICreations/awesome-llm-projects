@@ -110,6 +110,7 @@ Including text to image, image to image:
 - [MagicClothing](https://github.com/ShineChen1024/MagicClothing):  Focus on controllable garment-driven image synthesis.
 - [*IntrinsicAnything](https://zju3dv.github.io/IntrinsicAnything/): Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination.
 - [HeyBeauty](https://heybeauty.ai/): Discover Beauty with AI, Make Fashion redefined.
+- [IC-Light](https://github.com/lllyasviel/IC-Light): IC-Light is a project to manipulate the illumination of images.
 
 ### 🧸 3D Model
 Including text to 3D model:
