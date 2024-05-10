@@ -187,6 +187,7 @@ Including search engine, web browser:
 - [Design2Code](https://salt-nlp.github.io/Design2Code/): How Far Are We From Automating Front-End Engineering
 - [Tempo](https://www.tempolabs.ai/): Tempo generates and edits high-quality react code directly in your codebase so you can ship UIs in minutes.
 - [OpenUI](https://github.com/wandb/openui): OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [v0](https://v0.dev/): Generate UI with shadcn/ui from simple text prompts and images.
 
 ### 🗜️ Hardware
 - [Groq](https://wow.groq.com/): Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.
