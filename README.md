@@ -197,6 +197,7 @@ Including search engine, web browser:
 - [insight](https://github.com/advaitpaliwal/insight): A raspberry pi lay around and built an AI wearable called insight.
 - [Limitless](https://www.limitless.ai/): Personalized AI powered by what you’ve seen, said, and heard.
 - [Frame AI glasses](https://brilliant.xyz/): Open-source eyewear.
+- [Rabbit R1](https://www.rabbit.tech/): Your pocket companion.
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
