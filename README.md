@@ -146,6 +146,7 @@ Including text to video, image to video, video to video:
 - [*VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/): Lifelike Audio-Driven Talking Faces Generated in Real Time.
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
 - [Veo](https://deepmind.google/technologies/veo/): Veo is Google most capable video generation model to date.
+- [AniTalker](https://github.com/X-LANCE/AniTalker): Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
