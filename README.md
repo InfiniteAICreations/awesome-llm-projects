@@ -63,6 +63,7 @@
 - [DeepSeek-V2-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat): A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 - [Qwen 1.8B,7B,14B,72B](https://github.com/QwenLM/Qwen): Chat & pretrained large language model proposed by Alibaba Cloud.
 - [Granite Code Models 3b,8b,20b,34b](https://github.com/ibm-granite/granite-code-models): Granite Code Models, IBM's open-source code models: A Family of Open Foundation Models for Code Intelligence
+- [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT): A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
