@@ -204,6 +204,7 @@ Including search engine, web browser:
 - [Frame AI glasses](https://brilliant.xyz/): Open-source eyewear.
 - [Rabbit R1](https://www.rabbit.tech/): Your pocket companion.
 - [*Haptic Source-effector](https://lab.plopes.org/): Full-body Haptics via Non-invasive Brain Stimulation 
+- [OpenGlass](https://github.com/BasedHardware/openglass): Turn any glasses into AI-powered smart glasses
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
