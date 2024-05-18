@@ -122,6 +122,7 @@ Including text to image, image to image:
 - [HeyBeauty](https://heybeauty.ai/): Discover Beauty with AI, Make Fashion redefined.
 - [IC-Light](https://github.com/lllyasviel/IC-Light): IC-Light is a project to manipulate the illumination of images.
 - [Logo Diffusion](https://logodiffusion.com/): Create Logos in Seconds With Generative A.I.
+- [MistoLine](https://github.com/TheMistoAI/MistoLine): A Versatile and Robust SDXL-ControlNet Model for Adaptable Line Art Conditioning
 
 ### 🧸 3D Model
 Including text to 3D model:
