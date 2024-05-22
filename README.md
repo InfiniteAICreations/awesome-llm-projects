@@ -173,6 +173,7 @@ Including search engine, web browser:
 - [Aider](https://github.com/paul-gauthier/aider?utm_source=hackernewsletter&utm_medium=email&utm_term=code): Aider is AI pair programming in your terminal.
 - [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol): A single common interface for communicating with agents
 - [Devon](https://github.com/entropy-research/Devon): An open-source pair programmer
+- [PR-Agent](https://github.com/Codium-ai/pr-agent): CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
