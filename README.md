@@ -148,6 +148,7 @@ Including text to video, image to video, video to video:
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
 - [Veo](https://deepmind.google/technologies/veo/): Veo is Google most capable video generation model to date.
 - [AniTalker](https://github.com/X-LANCE/AniTalker): Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding
+- [Pandora](https://github.com/maitrix-org/Pandora): Towards General World Model with Natural Language Actions and Video States
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
