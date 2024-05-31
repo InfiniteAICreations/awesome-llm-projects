@@ -76,6 +76,7 @@
 - [Toolbench Leaderboard](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard): An evaluation for LLM tool manipulation capabilities.
 - [OpenCompass 2.0 LLM Leaderboard](https://huggingface.co/spaces/opencompass/opencompass-llm-leaderboard): Provides comprehensive, objective, and neutral scores and rankings for top-tier large language models and multimodal models.
 - [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard): Evaluates the performance of Korean Large Language Model (LLM).
+- [Occiglot Euro LLM Leaderboard](https://huggingface.co/spaces/occiglot/euro-llm-leaderboard): The Occiglot euro LLM leaderboard evaluates a subset of the tasks from the Open LLM Leaderboard machine-translated into the four main languages from the Okapi benchmark and Belebele (French, Italian, German and Spanish).
 
 ### 💬 ChatBot
 - [ChatGPT](https://chat.openai.com/): ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
