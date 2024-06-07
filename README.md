@@ -65,6 +65,7 @@
 - [Granite Code Models 3b,8b,20b,34b](https://github.com/ibm-granite/granite-code-models): Granite Code Models, IBM's open-source code models: A Family of Open Foundation Models for Code Intelligence
 - [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT): A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 - [MiniCPM-V 2.0](https://openbmb.vercel.app/minicpm-v-2-en): An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
+- [Stable Audio Open 1.0](https://huggingface.co/stabilityai/stable-audio-open-1.0): Stable Audio Open 1.0 generates variable-length (up to 47s) stereo audio at 44.1kHz from text prompts.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
