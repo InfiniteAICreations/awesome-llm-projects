@@ -132,6 +132,7 @@ Including text to image, image to image:
 - [Logo Diffusion](https://logodiffusion.com/): Create Logos in Seconds With Generative A.I.
 - [MistoLine](https://github.com/TheMistoAI/MistoLine): A Versatile and Robust SDXL-ControlNet Model for Adaptable Line Art Conditioning
 - [InstaDrag](https://github.com/magic-research/InstaDrag): Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos
+- [Omost](https://github.com/lllyasviel/Omost): Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 
 ### 🧸 3D Model
 Including text to 3D model:
