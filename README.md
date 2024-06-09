@@ -241,3 +241,4 @@ Including search engine, web browser:
 - [Latent Box](https://github.com/latentcat/latentbox): A collection of awesome-lists for AI, creativity and art.
 - [LLM Transparency Tool](https://github.com/facebookresearch/llm-transparency-tool): LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models.
 - [LLM Visualization](https://bbycroft.net/llm): A visualization and walkthrough of the LLM algorithm that backs OpenAI's ChatGPT. Explore the algorithm down to every add & multiply, seeing the whole process in action.
+- [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG): HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
