@@ -146,6 +146,7 @@ Including text to 3D model:
 - [DiffTF](https://ziangcao0312.github.io/difftf_pages/): Large-Vocabulary 3D Diffusion Model with Transformer
 - [DreamMat](https://github.com/zzzyuqing/DreamMat): High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models
 - [Unique3D](https://github.com/AiuniAI/Unique3D): High-Quality and Efficient 3D Mesh Generation from a Single Image.
+- [Era3D](https://github.com/pengHTYX/Era3D): High-Resolution Multiview Diffusion using Efficient Row-wise Attention.
 
 ### 🎥 Video
 Including text to video, image to video, video to video:
