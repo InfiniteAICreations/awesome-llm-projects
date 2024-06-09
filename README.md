@@ -68,6 +68,7 @@
 - [Stable Audio Open 1.0](https://huggingface.co/stabilityai/stable-audio-open-1.0): Stable Audio Open 1.0 generates variable-length (up to 47s) stereo audio at 44.1kHz from text prompts.
 - [Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B](https://github.com/QwenLM/Qwen2): Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [GLM-4-9B](https://github.com/THUDM/GLM-4): GLM-4 series: Open Multilingual Multimodal Chat LMs
+- [AutoCoder](https://github.com/bin123apple/autocoder): A new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
