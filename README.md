@@ -160,6 +160,7 @@ Including text to video, image to video, video to video:
 - [Veo](https://deepmind.google/technologies/veo/): Veo is Google most capable video generation model to date.
 - [AniTalker](https://github.com/X-LANCE/AniTalker): Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding
 - [Pandora](https://github.com/maitrix-org/Pandora): Towards General World Model with Natural Language Actions and Video States
+- [EasyAnimate](https://github.com/aigc-apps/EasyAnimate): An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
