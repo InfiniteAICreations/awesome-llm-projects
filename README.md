@@ -131,6 +131,7 @@ Including text to image, image to image:
 - [IC-Light](https://github.com/lllyasviel/IC-Light): IC-Light is a project to manipulate the illumination of images.
 - [Logo Diffusion](https://logodiffusion.com/): Create Logos in Seconds With Generative A.I.
 - [MistoLine](https://github.com/TheMistoAI/MistoLine): A Versatile and Robust SDXL-ControlNet Model for Adaptable Line Art Conditioning
+- [InstaDrag](https://github.com/magic-research/InstaDrag): Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos
 
 ### 🧸 3D Model
 Including text to 3D model:
