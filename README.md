@@ -162,6 +162,7 @@ Including text to video, image to video, video to video:
 - [AniTalker](https://github.com/X-LANCE/AniTalker): Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding
 - [Pandora](https://github.com/maitrix-org/Pandora): Towards General World Model with Natural Language Actions and Video States
 - [EasyAnimate](https://github.com/aigc-apps/EasyAnimate): An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion.
+- [V-Express](https://github.com/tencent-ailab/V-Express): V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
