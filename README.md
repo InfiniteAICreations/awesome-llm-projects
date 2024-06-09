@@ -101,6 +101,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [Sounds](https://www.optimizerai.xyz/): Sounds for creators, game developers, artists, video makers. Experience the best AI Sound FX generator
 - [VIVA](https://vivago.ai/video): VIVA is the AI powerd creative visual design platform
 - [ChatTTS](https://github.com/2noise/ChatTTS): ChatTTS is a generative speech model for daily dialogue.
+- [StreamSpeech](https://github.com/ictnlp/streamspeech): StreamSpeech is an “All in One” seamless model for offline and simultaneous speech recognition, speech translation and speech synthesis.
 
 ### 🎵 Music
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
