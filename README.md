@@ -197,6 +197,7 @@ Including search engine, web browser:
 - [PR-Agent](https://github.com/Codium-ai/pr-agent): CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [FinRobot](https://github.com/ai4finance-foundation/finrobot): An Open-Source AI Agent Platform for Financial Applications using LLMs
 - [AgentQL](https://docs.agentql.com/): Build AI agents using a query language for precise web and app automation
+- [Husky](https://agent-husky.github.io/): A Unified, Open-Source Language Agent for Multi-Step Reasoning
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
