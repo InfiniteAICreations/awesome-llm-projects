@@ -253,3 +253,4 @@ Including search engine, web browser:
 - [LLM Visualization](https://bbycroft.net/llm): A visualization and walkthrough of the LLM algorithm that backs OpenAI's ChatGPT. Explore the algorithm down to every add & multiply, seeing the whole process in action.
 - [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG): HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
 - [Vanna](https://github.com/vanna-ai/vanna): Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.
+- [Rewind](https://www.rewind.ai/): Rewind is a personalized AI powered by everything you’ve seen, said, or heard. Your colleagues will wonder how you do it all.
