@@ -204,6 +204,7 @@ Including search engine, web browser:
 - [FinRobot](https://github.com/ai4finance-foundation/finrobot): An Open-Source AI Agent Platform for Financial Applications using LLMs
 - [AgentQL](https://docs.agentql.com/): Build AI agents using a query language for precise web and app automation
 - [Husky](https://agent-husky.github.io/): A Unified, Open-Source Language Agent for Multi-Step Reasoning
+- [Translation Agent](https://github.com/andrewyng/translation-agent): Agentic translation using reflection workflow
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
