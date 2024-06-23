@@ -138,6 +138,7 @@ Including text to image, image to image, and animate:
 - [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter): ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors.
 - [Hallo](https://github.com/fudan-generative-vision/hallo): Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [UniAnimate](https://github.com/ali-vilab/UniAnimate): Taming Unified Video Diffusion Models for Consistent Human Image Animation.
+- [Krea](https://www.krea.ai/): Generate and enhance images and videos using powerful AI for free.
 
 ### 🧸 3D Model
 Including text to 3D model:
