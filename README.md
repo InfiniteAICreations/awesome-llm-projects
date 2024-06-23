@@ -135,6 +135,7 @@ Including text to image, image to image:
 - [InstaDrag](https://github.com/magic-research/InstaDrag): Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos
 - [Omost](https://github.com/lllyasviel/Omost): Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 - [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter): ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors.
+- [Hallo](https://github.com/fudan-generative-vision/hallo): Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 
 ### 🧸 3D Model
 Including text to 3D model:
