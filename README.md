@@ -112,7 +112,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [Udio](https://www.udio.com/): Make your music. Discover, create, and share music with the world.
 
 ### 🌄 Image
-Including text to image, image to image:
+Including text to image, image to image, and animate:
 
 - [DALL-E](https://openai.com/dall-e-3): Creating images from text.
 - [Stable Diffusion](https://stability-ai.com/): Stable Diffusion is a deep learning, text-to-image model.
@@ -137,6 +137,7 @@ Including text to image, image to image:
 - [Omost](https://github.com/lllyasviel/Omost): Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 - [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter): ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors.
 - [Hallo](https://github.com/fudan-generative-vision/hallo): Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+- [UniAnimate](https://github.com/ali-vilab/UniAnimate): Taming Unified Video Diffusion Models for Consistent Human Image Animation.
 
 ### 🧸 3D Model
 Including text to 3D model:
