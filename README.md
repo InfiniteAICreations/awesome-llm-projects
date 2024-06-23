@@ -167,6 +167,7 @@ Including text to video, image to video, video to video:
 - [EasyAnimate](https://github.com/aigc-apps/EasyAnimate): An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion.
 - [V-Express](https://github.com/tencent-ailab/V-Express): V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [MusePose](https://github.com/TMElyralab/MusePose): A Pose-Driven Image-to-Video Framework for Virtual Human Generation
+- [Hedra](https://www.hedra.com/): Hedra is a video content generation platform and social media platform that allows individuals to edit, export and share AI-generated videos and video components.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
