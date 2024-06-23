@@ -69,6 +69,7 @@
 - [Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B](https://github.com/QwenLM/Qwen2): Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [GLM-4-9B](https://github.com/THUDM/GLM-4): GLM-4 series: Open Multilingual Multimodal Chat LMs
 - [AutoCoder](https://github.com/bin123apple/autocoder): A new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
+- [Nemotron 4 340B](https://huggingface.co/collections/nvidia/nemotron-4-340b-666b7ebaf1b3867caf2f1911): The Nvidia's Open models for Synthetic Data Generation (SDG). Includes Base, Instruct, and Reward models.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
