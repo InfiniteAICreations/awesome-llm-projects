@@ -140,6 +140,7 @@ Including text to image, image to image, and animate:
 - [UniAnimate](https://github.com/ali-vilab/UniAnimate): Taming Unified Video Diffusion Models for Consistent Human Image Animation.
 - [Krea](https://www.krea.ai/): Generate and enhance images and videos using powerful AI for free.
 - [Leonardo AI](https://app.leonardo.ai/): Leonardo AI is a generative AI tool that lets you craft top-tier visual assets for your.
+- [MimicBrush](https://github.com/ali-vilab/MimicBrush): Zero-shot Image Editing with Reference Imitation
 
 ### 🧸 3D Model
 Including text to 3D model:
