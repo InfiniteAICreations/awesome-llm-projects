@@ -139,6 +139,7 @@ Including text to image, image to image, and animate:
 - [Hallo](https://github.com/fudan-generative-vision/hallo): Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [UniAnimate](https://github.com/ali-vilab/UniAnimate): Taming Unified Video Diffusion Models for Consistent Human Image Animation.
 - [Krea](https://www.krea.ai/): Generate and enhance images and videos using powerful AI for free.
+- [Leonardo AI](https://app.leonardo.ai/): Leonardo AI is a generative AI tool that lets you craft top-tier visual assets for your.
 
 ### 🧸 3D Model
 Including text to 3D model:
