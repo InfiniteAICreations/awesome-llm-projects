@@ -236,6 +236,7 @@ Including search engine, web browser:
 - [*Haptic Source-effector](https://lab.plopes.org/): Full-body Haptics via Non-invasive Brain Stimulation 
 - [OpenGlass](https://github.com/BasedHardware/openglass): Turn any glasses into AI-powered smart glasses
 - [Octo](https://octo-models.github.io/): Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.
+- [HumanPlus](https://humanoid-ai.github.io/): Humanoid Shadowing and Imitation from Humans
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
