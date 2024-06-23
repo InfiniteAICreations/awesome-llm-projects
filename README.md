@@ -141,6 +141,7 @@ Including text to image, image to image, and animate:
 - [Krea](https://www.krea.ai/): Generate and enhance images and videos using powerful AI for free.
 - [Leonardo AI](https://app.leonardo.ai/): Leonardo AI is a generative AI tool that lets you craft top-tier visual assets for your.
 - [MimicBrush](https://github.com/ali-vilab/MimicBrush): Zero-shot Image Editing with Reference Imitation
+- [SketchDeco](https://github.com/CHAITron/sketchdeco-code): Decorating B&W Sketches with Colour.
 
 ### 🧸 3D Model
 Including text to 3D model:
