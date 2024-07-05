@@ -218,6 +218,7 @@ Including search engine, web browser:
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
 - [ChatDev](https://chatdev.ai/): The primary objective of ChatDev is to offer an easy-to-use, highly customizable and extendable framework, which is based on large language models (LLMs) and serves as an ideal scenario for studying collective intelligence.
+- [TransAgents](https://github.com/minghao-wu/transagents): Multi-Agent for Translating Ultra-Long Literary Texts
 
 ### 💻 Terminal
 - [Warp](https://www.warp.dev/): Warp is a tool designed to enhance the terminal experience by providing AI-powered assistance for command lookups and allow users to input their objectives in plain English
