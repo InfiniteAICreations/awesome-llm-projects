@@ -181,6 +181,7 @@ Including text to video, image to video, video to video:
 - [MusePose](https://github.com/TMElyralab/MusePose): A Pose-Driven Image-to-Video Framework for Virtual Human Generation
 - [Hedra](https://www.hedra.com/): Hedra is a video content generation platform and social media platform that allows individuals to edit, export and share AI-generated videos and video components.
 - [MASA](https://github.com/siyuanliii/masa): Matching Anything by Segmenting Anything
+- [MotionClone](https://github.com/Bujiazi/MotionClone/): Training-Free Motion Cloning for Controllable Video Generation
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
