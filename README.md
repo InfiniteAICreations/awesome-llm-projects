@@ -182,6 +182,7 @@ Including text to video, image to video, video to video:
 - [Hedra](https://www.hedra.com/): Hedra is a video content generation platform and social media platform that allows individuals to edit, export and share AI-generated videos and video components.
 - [MASA](https://github.com/siyuanliii/masa): Matching Anything by Segmenting Anything
 - [MotionClone](https://github.com/Bujiazi/MotionClone/): Training-Free Motion Cloning for Controllable Video Generation
+- [MimicMotion](https://github.com/tencent/MimicMotion): High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
