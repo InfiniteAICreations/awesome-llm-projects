@@ -37,8 +37,6 @@
 - [🧠AI Agent](https://github.com/InfiniteAICreations/awesome-llm-projects#-ai-agent)
 - [🤼Multi-Agent Collaboration](https://github.com/InfiniteAICreations/awesome-llm-projects#-multi-agent-collaboration)
 - [💻Terminal](https://github.com/InfiniteAICreations/awesome-llm-projects#-terminal)
-- [🚀Launcher](https://github.com/InfiniteAICreations/awesome-llm-projects#-launcher)
-- [📊PPT / Keynote](https://github.com/InfiniteAICreations/awesome-llm-projects#-ppt--keynote)
 - [📰Web Sites](https://github.com/InfiniteAICreations/awesome-llm-projects#-web-sites)
 - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
@@ -227,12 +225,6 @@ Including search engine, web browser:
 - [CodeWhisperer Cli](https://aws.amazon.com/cn/blogs/devops/introducing-amazon-codewhisperer-for-command-line/): CodeWhisperer for command line adds IDE-style completions for hundreds of popular CLIs like as Git, npm, Docker, MongoDB Atlas, and the AWS CLI. Previously known as [fig](https://fig.io/).
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
 
-### 🚀 Launcher
-- [Raycast](https://www.raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
-
-### 📊 PPT / Keynote
-- [Gamma](https://gamma.app/): A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
-
 ### 📰 Web Sites
 - [Dora](https://www.dora.run/): Design and publish stunning 3D & animated websites effortlessly, without the need for coding.
 - [Design2Code](https://salt-nlp.github.io/Design2Code/): How Far Are We From Automating Front-End Engineering
@@ -276,3 +268,5 @@ Including search engine, web browser:
 - [Rewind](https://www.rewind.ai/): Rewind is a personalized AI powered by everything you’ve seen, said, or heard. Your colleagues will wonder how you do it all.
 - [Cursor](https://www.cursor.com/): The AI Code Editor.
 - [Wordware](https://www.wordware.ai): A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+- [Raycast](https://www.raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+- [Gamma](https://gamma.app/): A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
