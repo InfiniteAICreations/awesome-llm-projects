@@ -71,6 +71,7 @@
 - [AutoCoder](https://github.com/bin123apple/autocoder): A new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 - [Nemotron 4 340B](https://huggingface.co/collections/nvidia/nemotron-4-340b-666b7ebaf1b3867caf2f1911): The Nvidia's Open models for Synthetic Data Generation (SDG). Includes Base, Instruct, and Reward models.
 - [Fish Speech V1.2](https://huggingface.co/fishaudio/fish-speech-1.2): Fish Speech V1.2 is a leading text-to-speech (TTS) model trained on 300k hours of English, Chinese, and Japanese audio data.
+- [Phi-3 family](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3): Phi-3 family of small language and multi-modal models. Language models are available in short- and long-context lengths.
 
 ### 🏆 Benchmarks Leaderboard
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): This is the hub organisation(HuggingFace) maintaining the Open LLM Leaderboard.
