@@ -246,6 +246,7 @@ Including search engine, web browser:
 - [Octo](https://octo-models.github.io/): Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.
 - [HumanPlus](https://humanoid-ai.github.io/): Humanoid Shadowing and Imitation from Humans
 - [LeRobot](https://github.com/huggingface/lerobot): LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
+- [Ray-Ban Meta Smart Glasses](https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses): The Ray-Ban Meta collection combines the latest in wearable tech with authentic Ray-Ban design, to keep you connected wherever you go.
 
 ### ⌨️ Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
