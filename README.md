@@ -199,6 +199,7 @@ Including search engine, web browser:
 - [Transformer Debugger](https://github.com/openai/transformer-debugger): Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [Codium](https://www.codium.ai/): CodiumAI’s first tool is an IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
+- [Tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
