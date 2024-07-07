@@ -184,6 +184,7 @@ Including text to video, image to video, video to video:
 - [MotionClone](https://github.com/Bujiazi/MotionClone/): Training-Free Motion Cloning for Controllable Video Generation
 - [MimicMotion](https://github.com/tencent/MimicMotion): High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance
 - [Video-Infinity](https://github.com/Yuanshi9815/Video-Infinity): Video-Infinity generates long videos quickly using multiple GPUs without extra training.
+- [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio): DiffSynth Studio is a Diffusion engine.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
