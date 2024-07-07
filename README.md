@@ -145,6 +145,7 @@ Including text to image, image to image, and animate:
 - [MimicBrush](https://github.com/ali-vilab/MimicBrush): Zero-shot Image Editing with Reference Imitation
 - [SketchDeco](https://github.com/CHAITron/sketchdeco-code): Decorating B&W Sketches with Colour.
 - [Tensor.Art](https://tensor.art/): AI model sharing platform, online run models to generate image and traning model for free.
+- [AutoStudio](https://github.com/donahowe/AutoStudio): AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation
 
 ### 🧸 3D Model
 Including text to 3D model:
