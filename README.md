@@ -150,6 +150,7 @@ Including text to image, image to image, and animate:
 - [AutoStudio](https://github.com/donahowe/AutoStudio): AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait): Efficient Portrait Animation with Stitching and Retargeting Control
 - [IMAGDressing](https://github.com/muzishen/IMAGDressing): Interactive Modular Apparel Generation for Virtual Dressing 
+- [PaintsUndo](https://github.com/lllyasviel/Paints-UNDO): A Base Model of Drawing Behaviors in Digital Paintings
 
 ### 🧸 3D Model
 Including text to 3D model:
