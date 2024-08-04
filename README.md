@@ -149,6 +149,7 @@ Including text to image, image to image, and animate:
 - [Tensor.Art](https://tensor.art/): AI model sharing platform, online run models to generate image and traning model for free.
 - [AutoStudio](https://github.com/donahowe/AutoStudio): AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait): Efficient Portrait Animation with Stitching and Retargeting Control
+- [IMAGDressing](https://github.com/muzishen/IMAGDressing): Interactive Modular Apparel Generation for Virtual Dressing 
 
 ### 🧸 3D Model
 Including text to 3D model:
