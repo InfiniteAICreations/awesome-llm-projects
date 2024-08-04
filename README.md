@@ -283,3 +283,4 @@ Including search engine, web browser:
 - [Wordware](https://www.wordware.ai): A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [Raycast](https://www.raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
 - [Gamma](https://gamma.app/): A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
+- [Deep-tempest](https://github.com/emidan19/deep-tempest): Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations 
