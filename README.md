@@ -188,6 +188,7 @@ Including text to video, image to video, video to video:
 - [MimicMotion](https://github.com/tencent/MimicMotion): High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance
 - [Video-Infinity](https://github.com/Yuanshi9815/Video-Infinity): Video-Infinity generates long videos quickly using multiple GPUs without extra training.
 - [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio): DiffSynth Studio is a Diffusion engine.
+- [SAM 2](https://github.com/facebookresearch/segment-anything-2): Segment Anything Model 2 (SAM 2) is a foundation model towards solving promptable visual segmentation in images and videos.
 
 ### 🕸️ Search Engine
 Including search engine, web browser:
