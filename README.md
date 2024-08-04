@@ -108,6 +108,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [ChatTTS](https://github.com/2noise/ChatTTS): ChatTTS is a generative speech model for daily dialogue.
 - [StreamSpeech](https://github.com/ictnlp/streamspeech): StreamSpeech is an “All in One” seamless model for offline and simultaneous speech recognition, speech translation and speech synthesis.
 - [Dream Machine](https://lumalabs.ai/): Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.
+- [CosyVoice](https://github.com/FunAudioLLM/CosyVoice): Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 
 ### 🎵 Music
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
