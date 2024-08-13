@@ -287,3 +287,4 @@ Including search engine, web browser:
 - [Gamma](https://gamma.app/): A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
 - [Deep-tempest](https://github.com/emidan19/deep-tempest): Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations 
 - [Great Tables](https://github.com/posit-dev/great-tables): Make awesome display tables using Python.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
