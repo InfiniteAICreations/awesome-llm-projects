@@ -210,6 +210,7 @@ Including search engine, web browser:
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [Codium](https://www.codium.ai/): CodiumAI’s first tool is an IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
 - [Tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
+- [CodeRabbit](https://coderabbit.ai/): CodeRabbit is an innovative AI code review platform that streamlines and enhances the development process.
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
