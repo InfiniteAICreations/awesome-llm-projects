@@ -114,6 +114,7 @@ Including text to speech, speech to text, speech to speech, generate voice:
 - [Suno](https://www.suno.ai/): Suno is an innovative tool designed for music creation, leveraging artificial intelligence to transform text input into original songs
 - [Udio](https://www.udio.com/): Make your music. Discover, create, and share music with the world.
 - [Haimian Music](https://www.haimian.com/featured): An AI-generated music product by ByteDance, delivers superior vocal quality in both Chinese and English.
+- [Jamboss](https://www.jamboss.com/): Jamboss is a super simple AI music generator app that empowers you to turn your ideas and lyrics into amazing full-length songs.
 
 ### 🌄 Image
 Including text to image, image to image, and animate:
