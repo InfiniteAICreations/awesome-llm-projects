@@ -214,6 +214,7 @@ Including search engine, web browser:
 - [Tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
 - [CodeRabbit](https://coderabbit.ai/): CodeRabbit is an innovative AI code review platform that streamlines and enhances the development process.
 - [Cursor](https://www.cursor.com/): The AI Code Editor.
+- [Melty](https://github.com/meltylabs/melty): Melty is the first AI code editor that's aware of what you're doing from the terminal to GitHub, and collaborates with you to write production-ready code.
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
