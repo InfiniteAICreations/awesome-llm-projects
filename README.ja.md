@@ -9,7 +9,7 @@
   <img src="./logo.png" alt="Logo" width="300" height="300" />
 
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_tw.md">繁體中文</a>
   </p>
   <h4 align="center">
     <a href="https://awesome.re">
