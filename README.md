@@ -9,7 +9,7 @@
   <img src="./logo.png" alt="Logo" width="300" height="300" />
 
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_tw.md">繁體中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_tw.md">繁體中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.es.md">Español</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.de.md">Deutsch</a>
   </p>
   <h4 align="center">
     <a href="https://awesome.re">
@@ -82,8 +82,6 @@
 - [Toolbench Leaderboard](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard): An evaluation for LLM tool manipulation capabilities.
 - [OpenCompass 2.0 LLM Leaderboard](https://huggingface.co/spaces/opencompass/opencompass-llm-leaderboard): Provides comprehensive, objective, and neutral scores and rankings for top-tier large language models and multimodal models.
 - [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard): Evaluates the performance of Korean Large Language Model (LLM).
-- [Occiglot Euro LLM Leaderboard](https://huggingface.co/spaces/occiglot/euro-llm-leaderboard): The Occiglot euro LLM leaderboard evaluates a subset of the tasks from the Open LLM Leaderboard machine-translated into the four main languages from the Okapi benchmark and Belebele (French, Italian, German and Spanish).
-- [BigCodeBench Leaderboard](https://bigcode-bench.github.io/): BigCodeBench evaluates LLMs with practical and challenging programming tasks.()
 
 ### 💬 ChatBot
 - [ChatGPT](https://chat.openai.com/): ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
