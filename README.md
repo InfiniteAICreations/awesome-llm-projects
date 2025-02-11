@@ -41,6 +41,7 @@
 - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯LLMs Inference And Serving](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡Productivity](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋Others](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## Projects
@@ -274,6 +275,8 @@ Including search engine, web browser:
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
 
+### 💡Productivity
+- [Podwise](https://podwise.ai/): is a knowledge management app that uses AI to extract key information from podcasts, automatically generating transcripts, outlines, keywords, and mind maps for listeners
 ### 📋 Others
 - [Cradle](https://github.com/BAAI-Agents/Cradle): The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 - [LLMPerf](https://github.com/ray-project/llmperf): A Tool for evaulation the performance of LLM APIs. Also provide a [Leaderboard](https://github.com/ray-project/llmperf-leaderboard) for LLMs.
