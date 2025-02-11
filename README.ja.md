@@ -41,6 +41,7 @@
 - [🗜️ハードウェア](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️プロンプトエンジニアリング](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯LLM推論とサービス](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡生産性](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋その他](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## プロジェクト
@@ -199,6 +200,9 @@
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference): 大型言語モデルのテキスト生成推論
 - [Ollama](https://github.com/ollama/ollama): ローカルで大型言語モデルを実行します。
 - [LM Studio](https://lmstudio.ai/): ローカルLLMを発見、ダウンロード、および実行します。
+
+### 💡生産性
+- [Podwise](https://podwise.ai/): は、AIを使用してポッドキャストから重要な情報を抽出し、リスナーのために自動的にトランスクリプト、アウトライン、キーワード、マインドマップを生成する知識管理アプリです
 
 ### 📋 その他
 - [Cradle](https://github.com/BAAI-Agents/Cradle): Cradleフレームワークは、一般的なコンピュータ制御（GCC）の最初の試みです。Cradleは、標準化された一般的な環境で最小限の要件で強力な推論能力、自己改善、およびスキル管理を可能にし、エージェントが任意のコンピュータタスクを習得できるようにします。

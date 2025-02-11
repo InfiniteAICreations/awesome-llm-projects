@@ -41,6 +41,7 @@
 - [🗜️硬件](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️提示詞工程](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯LLM推理和服務](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡生產力](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋其他](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## 項目
@@ -273,6 +274,9 @@
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference): 大型語言模型文本生成推理
 - [Ollama](https://github.com/ollama/ollama): 在本地使用大型語言模型。
 - [LM Studio](https://lmstudio.ai/): 發現、下載和運行本地 LLMs。
+
+### 💡生產力
+- [Podwise](https://podwise.ai/): 是一款知識管理應用程序，使用 AI 從播客中提取關鍵信息，自動生成聽眾的轉錄、提綱、關鍵詞和思維導圖
 
 ### 📋 其他
 - [Cradle](https://github.com/BAAI-Agents/Cradle): Cradle 框架是通用計算機控制 (GCC) 的首次嘗試。Cradle 支持代理在一個標準化的通用環境中，以最少的要求，展現強大的推理能力、自我提升和技能管理，從而精通任何計算機任務。

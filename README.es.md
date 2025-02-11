@@ -41,6 +41,7 @@
 - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️Ingeniería de prompts](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯Inferencia y servicio de LLMs](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡Productividad](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋Otros](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## Proyectos
@@ -273,6 +274,9 @@ Incluyendo motor de búsqueda, navegador web:
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference): Inferencia de generación de texto de modelos de lenguaje grande
 - [Ollama](https://github.com/ollama/ollama): Pon en marcha modelos de lenguaje grande localmente.
 - [LM Studio](https://lmstudio.ai/): Descubre, descarga y ejecuta LLMs locales.
+
+### 💡Productividad
+- [Podwise](https://podwise.ai/): es una aplicación de gestión del conocimiento que utiliza IA para extraer información clave de los podcasts, generando automáticamente transcripciones, esquemas, palabras clave y mapas mentales para los oyentes
 
 ### 📋 Otros
 - [Cradle](https://github.com/BAAI-Agents/Cradle): El marco Cradle es un primer intento de Control General de Computadoras (GCC). Cradle permite a los agentes dominar cualquier tarea informática al habilitar fuertes habilidades de razonamiento, auto-mejora y gestión de habilidades, en un entorno general estandarizado con requisitos mínimos.

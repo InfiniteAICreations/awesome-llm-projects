@@ -9,7 +9,7 @@
   <img src="./logo.png" alt="Logo" width="300" height="300" />
 
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_tw.md">繁體中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-projects">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_CN.md">简体中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.ja.md">日本語</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.zh_tw.md">繁體中文</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.es.md">Español</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-projects/blob/main/README.de.md">Deutsch</a>
   </p>
   <h4 align="center">
     <a href="https://awesome.re">
@@ -43,6 +43,7 @@
 - [🗜️硬件](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️提示词工程](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯LLM推理和服务](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡生产力](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋其他](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## 项目
@@ -275,6 +276,10 @@
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference): 大型语言模型文本生成推理
 - [Ollama](https://github.com/ollama/ollama): 在本地使用大型语言模型。
 - [LM Studio](https://lmstudio.ai/): 发现、下载和运行本地 LLMs。
+
+
+### 💡生产力
+- [Podwise](https://podwise.ai/): 是一款知识管理应用程序，使用 AI 从播客中提取关键信息，自动生成听众的转录、提纲、关键词和思维导图
 
 ### 📋 其他
 - [Cradle](https://github.com/BAAI-Agents/Cradle): Cradle 框架是通用计算机控制 (GCC) 的首次尝试。Cradle 支持代理在一个标准化的通用环境中，以最少的要求，展现强大的推理能力、自我提升和技能管理，从而精通任何计算机任务。

@@ -41,6 +41,7 @@
 - [🗜️Hardware](https://github.com/InfiniteAICreations/awesome-llm-projects#-hardware)
 - [⌨️Prompt Engineering](https://github.com/InfiniteAICreations/awesome-llm-projects#-prompt-engineering)
 - [🤯LLMs Inference And Serving](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
+- [💡Produktivität](https://github.com/InfiniteAICreations/awesome-llm-projects#-llms-inference-and-serving)
 - [📋Others](https://github.com/InfiniteAICreations/awesome-llm-projects#-others)
 
 ## Projekte
@@ -166,3 +167,6 @@ Einschließlich Text zu 3D-Modell:
 - [*OccFusion](https://cs.stanford.edu/~xtiange/projects/occfusion/): Rendering von verdeckten Menschen mit generativen Diffusionsprioren
 - [AIUNI](https://aiuni.ai/): AI generiert einzigartige Assets, Avatare, Animationen.
 - [MeshFormer](https://meshformer3d.github.io/): Hochwertige Mesh-Generierung mit 3D-geführt
+
+### 💡Produktivität
+- [Podwise](https://podwise.ai/): ist eine Wissensmanagement-App, die KI verwendet, um wichtige Informationen aus Podcasts zu extrahieren und automatisch Transkripte, Gliederungen, Schlüsselwörter und Mindmaps für die Zuhörer zu erstellen
