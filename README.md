@@ -248,6 +248,7 @@ Including search engine, web browser:
 - [Tempo](https://www.tempolabs.ai/): Tempo generates and edits high-quality react code directly in your codebase so you can ship UIs in minutes.
 - [OpenUI](https://github.com/wandb/openui): OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [v0](https://v0.dev/): Generate UI with shadcn/ui from simple text prompts and images.
+- [blank-space](https://www.blankspace.build/): Open-source AI app builder for building React applications (alternative to v0, Lovable, and Bolt).
 
 ### 🗜️ Hardware
 - [Groq](https://wow.groq.com/): Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.
