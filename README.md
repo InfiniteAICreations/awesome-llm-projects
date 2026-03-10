@@ -230,6 +230,7 @@ Including search engine, web browser:
 - [Husky](https://agent-husky.github.io/): A Unified, Open-Source Language Agent for Multi-Step Reasoning
 - [Translation Agent](https://github.com/andrewyng/translation-agent): Agentic translation using reflection workflow
 - [DigiRL](https://digirl-agent.github.io/): Training In-The-Wild Device-Control Agents with Autonomous Reinforcement
+- [Lumen](https://github.com/omxyz/lumen): A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 
 ### 🤼 Multi-Agent Collaboration
 - [MetaGPT](https://github.com/geekan/MetaGPT): MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
