@@ -214,6 +214,8 @@ Including search engine, web browser:
 - [CodeRabbit](https://coderabbit.ai/): CodeRabbit is an innovative AI code review platform that streamlines and enhances the development process.
 - [Cursor](https://www.cursor.com/): The AI Code Editor.
 - [Melty](https://github.com/meltylabs/melty): Melty is the first AI code editor that's aware of what you're doing from the terminal to GitHub, and collaborates with you to write production-ready code.
+- [toprank](https://github.com/nowork-studio/toprank): Open-source Claude Code plugin providing 9 SEO and Google Ads skills — meta tag rewrites, schema markup, keyword bids, and CMS content pushes.
+
 
 ### 🧠 AI Agent
 - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
