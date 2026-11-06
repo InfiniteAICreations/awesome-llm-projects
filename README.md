@@ -255,6 +255,7 @@ Including search engine, web browser:
 - [Friend](https://github.com/BasedHardware/friend): Open-Source AI Wearable with 24h+ on single charge
 - [insight](https://github.com/advaitpaliwal/insight): A raspberry pi lay around and built an AI wearable called insight.
 - [Limitless](https://www.limitless.ai/): Personalized AI powered by what you’ve seen, said, and heard.
+- [OneMira C1](https://onemira.com/products/c1): Subscription-free standalone AI voice recorder with local AI transcription, speaker identification, and an open-source [MCP server](https://github.com/onemira-space/onemira-mcp).
 - [Frame AI glasses](https://brilliant.xyz/): Open-source eyewear.
 - [Rabbit R1](https://www.rabbit.tech/): Your pocket companion.
 - [*Haptic Source-effector](https://lab.plopes.org/): Full-body Haptics via Non-invasive Brain Stimulation 
